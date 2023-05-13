@@ -13,4 +13,8 @@ Because this model is widely used in the field of accounting and finance, this p
 4. Market value of the sixth month of the following year for each company written in the code with the title "Market Value tir" (This can be vary depending on your case, But this is not important in the code. You just need to have data for this).
 5. Finally, based on what annual period you chose, you should have 12 months of monthly returns for each company (These are shown in the code with titles "1M" to "12M").
 
-# 
+# How to run
+1. Install python3, pip, pandas in your system.
+2. Clone the project https://github.com/hamedmarzian/Fama-French_3Factor.git
+3. Run Fama&French.py
+4. 
