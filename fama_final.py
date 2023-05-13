@@ -1,7 +1,7 @@
 import pandas as pd
 import math
 
-#                              ******before you start, please read the 'Read Me' file******
+#                              ******before you start, please read the 'README' file******
 
 # Input the name you want to be selected for the final file ('your input' + '_final')
 file_name = input("What should be the name of your final file?!\n")
