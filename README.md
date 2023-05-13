@@ -11,4 +11,6 @@ Because this model is widely used in the field of accounting and finance, this p
 2. Book value of each company written in the code with the title "Book Value".
 3. Year-end market value of each company written in the code with the title "Market Value esfand".
 4. Market value of the sixth month of the following year for each company written in the code with the title "Market Value tir" (This can be vary depending on your case, But this is not important in the code. You just need to have data for this).
-5. Finally, based on what annual period you chose, you should have 12 months of monthly returns for each company (These are shown in the code with titles 1M to 12M.
+5. Finally, based on what annual period you chose, you should have 12 months of monthly returns for each company (These are shown in the code with titles "1M" to "12M").
+
+# 
