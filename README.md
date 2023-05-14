@@ -34,5 +34,5 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Contact
-#### E-mail: marzian.hamed@yahoo.com
+#### E-mail: marzian.hamed@gmail.com
 #### Project Link: https://github.com/hamedmarzian/Fama-French_3Factor
